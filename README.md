@@ -1,7 +1,6 @@
-[Clippy.JS](http://smore.com/clippy-js)
+Clippy.JS
 =========
-Add Clippy or his friends to any website for instant nostalgia.  
-Read more about the project on [our homepage](http://smore.com/clippy-js).
+Add Clippy or his friends to any website for instant nostalgia.
 
 
 Usage: Setup
@@ -65,5 +64,7 @@ agent.stop();
 Special Thanks
 --------------
 * The awesome [Cinnamon Software](http://www.cinnamonsoftware.com/) for developing [Double Agent](http://doubleagent.sourceforge.net/)
-the program we used to unpack Clippy and his friends!
+the program used to unpack Clippy and his friends!
 * Microsoft, for creating clippy :)
+
+(http://smore.com/clippy-js)
